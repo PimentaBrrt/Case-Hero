@@ -9,7 +9,7 @@
 ### 2024-01
 
 ## Integrantes
-- [Daniel Chehin](https://github.com/PimentaBrrt/)
+- [Daniel Chehin](https://github.com/Chehin013/)
 - [Guilherme Orlandi](https://github.com/PimentaBrrt/)
 - [Luiz Felipe Pimenta](https://github.com/PimentaBrrt/)
 - [Ycaro Campovilla](https://github.com/Ycakraft/)
