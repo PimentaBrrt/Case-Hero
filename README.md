@@ -9,22 +9,23 @@
 ### 2024-01
 
 ## Integrantes
-- [Dylan Ashby](https://github.com/PimentaBrrt/)
-- [Gabriel Formario](https://github.com/gaformario/)
+- [Luiz Felipe Pimenta Berrettini](https://github.com/PimentaBrrt/)
+- [Luiz Felipe Pimenta Berrettini](https://github.com/PimentaBrrt/)
+- [Luiz Felipe Pimenta Berrettini](https://github.com/PimentaBrrt/)
+- [Luiz Felipe Pimenta Berrettini](https://github.com/PimentaBrrt/)
 
 ## Descrição do Projeto
 
-Um projeto de Arduino inspirado no jogo "Guitar Hero".
+Um projeto de Arduino inspirado no jogo "Guitar Hero". A ideia do projeto é inserir esse Arduino em uma capinha de celular, tornando o jogo facilmente jogável em qualquer
+momento do dia-a-dia caso a bateria do celular acabe, com o fim de entreter o usuário.
 
-### Problema
+### Regra do Jogo
 
-Com a vasta quantidade de filmes e séries disponíveis atualmente, torna-se desafiador para os entusiastas do cinema e profissionais da indústria acompanhar e entender as preferências do público. A falta de uma ferramenta consolidada que ofereça insights claros e atualizados sobre a popularidade e tendências de filmes e séries dificulta a tomada de decisões informadas para produtores, diretores e distribuidores. Além disso, os usuários muitas vezes enfrentam dificuldades para encontrar informações relevantes e atualizadas sobre seus filmes e séries favoritos em um único lugar.
+A regra do "Case Hero" é simples. Os LEDs de diferentes cores acenderão aleatóriamente e o usuário deve rapidamente reagir a esses LEDs acendendo e apertar o botão respectivo. Em caso de acerto, todos os LEDs piscarão brevemente para sinalizar que o botão foi corretamente pressionado. Em caso de erro, apenas o LED que deveria ter sido apertado pisca.
 
 ### Objetivo Final
 
-1. Visualizar Análises e Rankings: Acessar rankings atualizados dos filmes e séries mais populares, acompanhados de análises detalhadas e pontuações de popularidade.
-2. Pesquisar e Acessar Detalhes: Realizar pesquisas rápidas e encontrar informações abrangentes sobre filmes e séries, incluindo sinopse, classificação, gênero e outros detalhes relevantes.
-3. Atualizações Contínuas e Segurança: Garantir que as informações e análises fornecidas sejam atualizadas regularmente com base nos dados coletados e armazenados de forma segura e protegida.
+Entreter o usuário com o jogo enquanto estiver sem bateria.
 
 # Licença
 
