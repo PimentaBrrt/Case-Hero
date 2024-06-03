@@ -10,7 +10,7 @@
 
 ## Integrantes
 - [Daniel Chehin](https://github.com/Chehin013/)
-- [Guilherme Orlandi](https://github.com/PimentaBrrt/)
+- [Guilherme Orlandi](https://github.com/carrico05/)
 - [Luiz Felipe Pimenta](https://github.com/PimentaBrrt/)
 - [Ycaro Campovilla](https://github.com/Ycakraft/)
 
