@@ -9,10 +9,10 @@
 ### 2024-01
 
 ## Integrantes
-- [Luiz Felipe Pimenta Berrettini](https://github.com/PimentaBrrt/)
-- [Luiz Felipe Pimenta Berrettini](https://github.com/PimentaBrrt/)
-- [Luiz Felipe Pimenta Berrettini](https://github.com/PimentaBrrt/)
-- [Luiz Felipe Pimenta Berrettini](https://github.com/PimentaBrrt/)
+- [Daniel Chehin](https://github.com/PimentaBrrt/)
+- [Guilherme Orlandi](https://github.com/PimentaBrrt/)
+- [Luiz Felipe Pimenta](https://github.com/PimentaBrrt/)
+- [Ycaro Campovilla](https://github.com/Ycakraft/)
 
 ## Descrição do Projeto
 
