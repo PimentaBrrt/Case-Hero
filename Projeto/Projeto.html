@@ -5,8 +5,15 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>Case Hero</title>
 	<style type="text/css">
+	html {
+		background: #333333;
+		margin: 0px;
+		padding: 0px;
+	}
 	body {
 		background: #333333;
+		margin: 0px;
+		padding: 0px;
 		color: #ffffff;
 		font: normal 16px sans-serif;
 	}
@@ -27,10 +34,17 @@
 	</style>
 </head>
 <body>
-	<p>
-		<a href="/iniciar">Iniciar!</a>
-	</p>
-	<p><b>Pontos:</b> 0</p>
-	<p><b>Erros:</b> 0</p>
+<div style="display: flex; flex-direction: column; justify-content: center; position: fixed; left: 0; right: 0; top: 0; bottom: 0; text-align: center;">
+	<div style="position: relative;">
+		<img src="https://pimentabrrt.github.io/Case-Hero/Projeto/fundo.png" style="max-width: 100vw; max-height: 100vh;" />
+		<div style="position: absolute; left: 0; right: 0; top: 50%; text-align: center; font-size: 2.5vh;">
+			<p>
+				<a href="/iniciar">Iniciar!</a>
+			</p>
+			<p><b>Pontos:</b> 0</p>
+			<p><b>Erros:</b> 0</p>
+		</div>
+	</div>
+</div>
 </body>
 </html>
